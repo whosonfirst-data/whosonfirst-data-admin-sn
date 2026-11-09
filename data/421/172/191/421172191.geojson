@@ -39,7 +39,7 @@
         85676997,
         102191573,
         85632365,
-        421187965
+        421199619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +54,6 @@
         {
             "continent_id":102191573,
             "country_id":85632365,
-            "county_id":421187965,
             "locality_id":-1,
             "neighbourhood_id":421172191,
             "region_id":85676997

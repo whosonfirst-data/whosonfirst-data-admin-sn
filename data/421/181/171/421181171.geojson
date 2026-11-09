@@ -80,7 +80,7 @@
         102191573,
         85632365,
         85676997,
-        421187965
+        421199619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,6 @@
         {
             "continent_id":102191573,
             "country_id":85632365,
-            "county_id":421187965,
             "locality_id":421181171,
             "region_id":85676997
         }
@@ -105,7 +104,7 @@
     "wof:id":421181171,
     "wof:lastmodified":1690865884,
     "wof:name":"Yof",
-    "wof:parent_id":421187965,
+    "wof:parent_id":421199619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-sn",
     "wof:superseded_by":[],

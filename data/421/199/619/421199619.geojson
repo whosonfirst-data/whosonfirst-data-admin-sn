@@ -629,8 +629,7 @@
     "wof:belongsto":[
         102191573,
         85632365,
-        85676997,
-        421187965
+        85676997
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -655,7 +654,6 @@
         {
             "continent_id":102191573,
             "country_id":85632365,
-            "county_id":421187965,
             "locality_id":421199619,
             "region_id":85676997
         }
@@ -664,7 +662,7 @@
     "wof:lastmodified":1690865886,
     "wof:megacity":1,
     "wof:name":"Dakar",
-    "wof:parent_id":421187965,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:placetype_alt":[
         "county"

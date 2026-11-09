@@ -45,7 +45,7 @@
         "wk:page":"Baraka_Patata"
     },
     "wof:country":"SN",
-    "wof:geomhash":"d01ac96e38745dde0170b4ccf6710d1c",
+    "wof:geomhash":"6ee6c2eeb03ce7280f82ff4fc704e9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     -16.13332999999999,
     12.45
 ],
-  "geometry": {"coordinates":[-16.13332999999999,12.45],"type":"Point"}
+  "geometry": {"coordinates":[-16.13333,12.45],"type":"Point"}
 }

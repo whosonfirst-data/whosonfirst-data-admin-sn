@@ -47,7 +47,7 @@
         "wk:page":"S%C3%A9bikotane_Arrondissement"
     },
     "wof:country":"SN",
-    "wof:geomhash":"e6311c03424848cf004b6dd1a05f2da2",
+    "wof:geomhash":"4dec6a8ebcc8b08a12236c7603eb4736",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     -17.13782999999999,
     14.74521
 ],
-  "geometry": {"coordinates":[-17.13782999999999,14.74521],"type":"Point"}
+  "geometry": {"coordinates":[-17.13783,14.74521],"type":"Point"}
 }

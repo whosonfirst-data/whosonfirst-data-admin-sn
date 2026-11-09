@@ -172,7 +172,7 @@
         "wk:page":"Gor%C3%A9e"
     },
     "wof:country":"SN",
-    "wof:geomhash":"6d6d065d6cafdce52e628ad2fe0eed32",
+    "wof:geomhash":"e035eac625993d96eb803dc1cc5016e5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -197,5 +197,5 @@
     -17.39867000000001,
     14.66757
 ],
-  "geometry": {"coordinates":[-17.39867000000001,14.66757],"type":"Point"}
+  "geometry": {"coordinates":[-17.39867,14.66757],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Affiniam"
     },
     "wof:country":"SN",
-    "wof:geomhash":"ada9cf46a6217a35b9d08c9f3344b83f",
+    "wof:geomhash":"b0d65a1b02d707a6bb8e40c5b82ad6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,5 +79,5 @@
     -16.36277999999999,
     12.65444
 ],
-  "geometry": {"coordinates":[-16.36277999999999,12.65444],"type":"Point"}
+  "geometry": {"coordinates":[-16.36278,12.65444],"type":"Point"}
 }

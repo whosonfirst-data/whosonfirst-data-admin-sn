@@ -41,7 +41,7 @@
         "gn:id":2250874
     },
     "wof:country":"SN",
-    "wof:geomhash":"3c7a63447216a183029965759a2be096",
+    "wof:geomhash":"1e1c667bf7a8e23cf075c60aa54c8832",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -16.75832999999999,
     12.71361
 ],
-  "geometry": {"coordinates":[-16.75832999999999,12.71361],"type":"Point"}
+  "geometry": {"coordinates":[-16.75833,12.71361],"type":"Point"}
 }

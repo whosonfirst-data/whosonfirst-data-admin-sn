@@ -52,7 +52,7 @@
         "wk:page":"Djilas_%28Senegal%29"
     },
     "wof:country":"SN",
-    "wof:geomhash":"1f4eb3deead734a206b0a1a970ff8458",
+    "wof:geomhash":"144e35ed0d19a207daf91d9f742de904",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,5 +78,5 @@
     -16.63332999999999,
     14.25
 ],
-  "geometry": {"coordinates":[-16.63332999999999,14.25],"type":"Point"}
+  "geometry": {"coordinates":[-16.63333,14.25],"type":"Point"}
 }
